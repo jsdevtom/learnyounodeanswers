@@ -1,0 +1,21 @@
+{
+  "name": "learnyounodeanswers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^1.29.0",
+    "learnyounode": "^3.5.10"
+  },
+  "devDependencies": {
+    "@types/jest": "^22.2.3",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "jest": "^22.4.3"
+  }
+}
